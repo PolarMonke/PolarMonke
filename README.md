@@ -17,7 +17,7 @@ I create things I want to create
 
 ---
 
-** My best projects **
+**My best projects**
 
 - BoyBet - gambling learning web app on React and Flask
 - SlovaShare - platform for cooperative stories writing on React and ASP.NET Core
