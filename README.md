@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Polar Monke!
 
-🎮 Game developer | 🌐 Web engineer | 🔧 Anyone I decide to be
+I develop things I'm thinking about in the shower
 
 ---
 
