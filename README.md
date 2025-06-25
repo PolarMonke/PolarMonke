@@ -4,19 +4,16 @@ I create things I want to
 
 ---
 
-## What I'm up to
+## Tech Stack
 
-- Currently learning .NET and trying to build APIs with it.
-- Already familiar with Python and JavaScript.
-- Develop simple games with Unity and Godot.
-- Know about SOLID and other basic stuff.
+[![My Skills](https://skillicons.dev/icons?i=js,react,vite,py,cs,dotnet,unity,godot,mysql)](https://skillicons.dev)
 
 ---
 
 ## Stats & Activity
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=PolarMonke&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolarMonke&layout=pie&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=PolarMonke&show_icons=true&include_all_commits=true&theme=synthwave_height=20&card_width=430)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolarMonke&show_icons=true&theme=synthwave_width=350)
 
 ---
 
