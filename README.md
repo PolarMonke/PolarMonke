@@ -1,6 +1,6 @@
 ## Polar Monke
 
-I create things I want to create
+Useless but creative software developer
 
 <img src="https://github.com/user-attachments/assets/8451d353-b050-4550-b212-44264b6148da" width="650" />
 
