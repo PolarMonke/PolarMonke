@@ -1,16 +1,18 @@
-##Polar Monke
+## Polar Monke
 
-I create what I want to create
+I create things I want to create
+
+![Profile Banner](https://github.com/user-attachments/assets/8451d353-b050-4550-b212-44264b6148da)
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,vite,py,flask,cs,dotnet,unity,godot,mysql,sqlite)](https://skillicons.dev)
 
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PolarMonke&include_all_commits=true&theme=synthwave" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PolarMonke&include_all_commits=true&theme=omni" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PolarMonke&layout=compact&langs_count=8&card_width=320&theme=synthwave" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PolarMonke&layout=compact&langs_count=8&card_width=320&theme=omni" />
 </a>
 
 ---
