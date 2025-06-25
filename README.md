@@ -12,8 +12,12 @@ I create things I want to
 
 ## Stats & Activity
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=PolarMonke&show_icons=true&include_all_commits=true&theme=synthwave&height=200&width=430)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolarMonke&show_icons=true&theme=synthwave&height=200&width=430)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PolarMonke&include_all_commits=true&theme=synthwave" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PolarMonke&layout=compact&langs_count=8&card_width=320&theme=synthwave" />
+</a>
 
 ---
 
