@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Polar Monke!
 
-🎮 Game developer | 🌐 Web engineer
+🎮 Game developer | 🌐 Web engineer | 🔧 Anyone I decide to be
 
 ---
 
@@ -15,6 +15,6 @@
 
 ## 🌟 Stats & Activity
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PolarMonke_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolarMonke_icons=true&theme=synthwave)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=PolarMonke&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolarMonke&show_icons=true&theme=synthwave)
 
