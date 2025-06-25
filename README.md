@@ -1,28 +1,33 @@
-# 👋 Hi there, I'm Polar Monke!
+# Hi there, I'm Polar Monke!
 
-I develop things I'm thinking about in the shower
+I create things I want to
 
 ---
 
-## 🚀 What I'm up to
+## What I'm up to
 
 - Currently learning .NET and trying to build APIs with it.
 - Already familiar with Python and JavaScript.
-- Can develop simple games with Unity and Godot.
+- Develop simple games with Unity and Godot.
 - Know about SOLID and other basic stuff.
 
 ---
 
-## 🌟 Stats & Activity
+## Stats & Activity
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PolarMonke&show_icons=true&theme=synthwave"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="[https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true](https://github-readme-stats.vercel.app/api/top-langs/?username=PolarMonke&show_icons=true&theme=synthwave)"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=PolarMonke&show_icons=true&theme=synthwave" />
-</picture>
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=PolarMonke&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolarMonke&layout=pie&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## My best projects
+
+- BoyBet - gambling learning web app
+- SlovaShare - platform for cooperative stories writing
+- Brainrot Survival - zombie shooter with bonuses
+- PVP Bullet Hell - my attempt in making a multiplayer game
+
+--- 
+
+
+
