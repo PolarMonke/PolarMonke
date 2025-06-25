@@ -2,7 +2,7 @@
 
 I create things I want to create
 
-![Profile Banner](https://github.com/user-attachments/assets/8451d353-b050-4550-b212-44264b6148da)
+<img src="https://github.com/user-attachments/assets/8451d353-b050-4550-b212-44264b6148da" width="600" />
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,vite,py,flask,cs,dotnet,unity,godot,mysql,sqlite)](https://skillicons.dev)
 
