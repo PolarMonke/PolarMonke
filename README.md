@@ -20,10 +20,10 @@ Useless but creative software developer
 
 **My best projects**
 
-- BoyBet - gambling learning web app on React and Flask
-- SlovaShare - platform for cooperative stories writing on React and ASP.NET Core
-- Brainrot Survival - zombie shooter with bonuses on Unity
-- PVP Bullet Hell - my attempt in making a multiplayer game on Godot
+- <a href="https://github.com/PolarMonke/gambling">BoyBet</a> - gambling learning web app on React and Flask
+- <a href="https://github.com/PolarMonke/SlovaShare">SlovaShare</a> - platform for cooperative stories writing on React and ASP.NET Core
+- <a href="https://github.com/PolarMonke/FPS">Brainrot Survival</a> - zombie shooter with bonuses on Unity
+- <a href="https://github.com/PolarMonke/pvpbullethell">PVP Bullet Hell</a> - my attempt in making a multiplayer game on Godot
 
 
 
