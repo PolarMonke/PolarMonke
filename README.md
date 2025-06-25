@@ -9,7 +9,7 @@ I create things I want to create
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PolarMonke&include_all_commits=true&theme=omni" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PolarMonke&theme=omni" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PolarMonke&layout=compact&langs_count=8&card_width=320&theme=omni" />
