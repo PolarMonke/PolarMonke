@@ -1,16 +1,10 @@
-# Hi there, I'm Polar Monke!
+##Polar Monke
 
-I create things I want to
+I create what I want to create
 
----
-
-## Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=js,react,vite,py,cs,dotnet,unity,godot,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,vite,py,flask,cs,dotnet,unity,godot,mysql,sqlite)](https://skillicons.dev)
 
 ---
-
-## Stats & Activity
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PolarMonke&include_all_commits=true&theme=synthwave" />
@@ -23,12 +17,10 @@ I create things I want to
 
 ## My best projects
 
-- BoyBet - gambling learning web app
-- SlovaShare - platform for cooperative stories writing
-- Brainrot Survival - zombie shooter with bonuses
-- PVP Bullet Hell - my attempt in making a multiplayer game
-
---- 
+- BoyBet - gambling learning web app on React and Flask
+- SlovaShare - platform for cooperative stories writing on React and ASP.NET Core
+- Brainrot Survival - zombie shooter with bonuses on Unity
+- PVP Bullet Hell - my attempt in making a multiplayer game on Godot
 
 
 
