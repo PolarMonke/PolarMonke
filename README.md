@@ -18,7 +18,7 @@ I have many ideas but they can wait
 
 ---
 
-**My best projects**
+**Some of my projects**
 
 - <a href="https://github.com/PolarMonke/gambling">BoyBet</a> - gambling learning web app on React and Flask
 - <a href="https://github.com/PolarMonke/SlovaShare">SlovaShare</a> - platform for cooperative stories writing on React and ASP.NET Core
