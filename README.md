@@ -5,24 +5,24 @@ I have many ideas but they can wait
 <img src="https://github.com/user-attachments/assets/8451d353-b050-4550-b212-44264b6148da" width="650" />
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,vite,py,flask,cs,dotnet,unity,godot,mysql,sqlite,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,vite,py,cs,dotnet,unity,godot,mysql,sqlite)](https://skillicons.dev)
 
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=PolarMonke&theme=omni" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Smiatana&theme=omni" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PolarMonke&layout=compact&langs_count=8&card_width=320&theme=omni" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Smiatana&layout=compact&langs_count=8&card_width=320&theme=omni" />
 </a>
 
 ---
 
 **Some of my projects**
 
-- <a href="https://github.com/PolarMonke/gambling">BoyBet</a> - gambling learning web app on React
-- <a href="https://github.com/PolarMonke/FPS">Brainrot Survival</a> - zombie shooter with bonuses on Unity
-- <a href="https://github.com/PolarMonke/pvpbullethell">PVP Bullet Hell</a> - my attempt in making a multiplayer game on Godot
+- <a href="https://github.com/Smiatana/gambling">BoyBet</a> - gambling learning web app on React
+- <a href="https://github.com/Smiatana/FPS">Brainrot Survival</a> - zombie shooter with bonuses on Unity
+- <a href="https://github.com/Smiatana/pvpbullethell">PVP Bullet Hell</a> - my attempt in making a multiplayer game on Godot
 
 
 
